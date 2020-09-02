@@ -3,7 +3,16 @@ Hello!
 Adrian here,
 
 This is a little project I did trying to imitate Minecraft's world generation algorithms and interaction!
-If you're interested check out my other projects over at github.com/Arixdan.
+It's features are:
+
+-Random terrain generation
+-Cave systems generation
+-Ore generation based on height and probability
+-Removing and placing Blocks
+-Diferent types of blocks depending on the height of each block
+-Being able to walk through plants and remove them
+-Block updates for changes like removing a plant if there's no block below it
+-Mesh optimization using a chunk system
 
 In this one you can play in a small 20*20 chunk world, explore the terrain and caves and remove and place blocks.
 Just open the project in Unity and open the scene called MainScene in the Scenes folder.
