@@ -1,6 +1,4 @@
-Hello!
-
-Adrian here,
+Hello!Adrian here,
 
 This is a little project I did trying to imitate Minecraft's world generation algorithms and interaction!
 It's features are:
@@ -14,7 +12,7 @@ It's features are:
 -Block updates for changes like removing a plant if there's no block below it
 -Mesh optimization using a chunk system
 
-In this one you can play in a small 20*20 chunk world, explore the terrain and caves and remove and place blocks.
+You can play in a small 20*20 chunk world, explore the terrain and caves and remove and place blocks.
 Just open the project in Unity and open the scene called MainScene in the Scenes folder.
 
 Have fun!
