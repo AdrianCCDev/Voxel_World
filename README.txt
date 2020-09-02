@@ -2,7 +2,7 @@ Hello!
 
 Adrian here,
 
-this is a little project I did trying to imitate Minecraft's world generation algorithms and interaction!
+This is a little project I did trying to imitate Minecraft's world generation algorithms and interaction!
 If you're interested check out my other projects over at github.com/Arixdan.
 
 In this one you can play in a small 20*20 chunk world, explore the terrain and caves and remove and place blocks.
